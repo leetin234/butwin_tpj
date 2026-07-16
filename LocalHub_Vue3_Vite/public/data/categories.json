@@ -1,0 +1,110 @@
+{
+  "culture": [
+    {
+      "title": "대전 중구 북페스티벌",
+      "type": "축제",
+      "location": "중구 선화동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/83/4081183_image2_1.jpg"
+    },
+    {
+      "title": "세계인 어울림 축제",
+      "type": "축제",
+      "location": "중구 문화동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/25/4062825_image2_1.jpg"
+    },
+    {
+      "title": "유성온천문화축제",
+      "type": "축제",
+      "location": "유성구 봉명동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/97/4059997_image2_1.jpg"
+    },
+    {
+      "title": "대전사이언스페스티벌",
+      "type": "행사",
+      "location": "유성구 도룡동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/26/4053926_image2_1.jpg"
+    },
+    {
+      "title": "대전효문화뿌리축제",
+      "type": "축제",
+      "location": "중구 침산동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/95/3534795_image2_1.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "title": "대전드림아레나",
+      "type": "레포츠",
+      "location": "유성구 도룡동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/86/3377386_image2_1.jpg"
+    },
+    {
+      "title": "사정인라인스케이트장",
+      "type": "레포츠",
+      "location": "중구 사정동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/95/3037295_image2_1.JPG"
+    },
+    {
+      "title": "월평싸이클장",
+      "type": "레포츠",
+      "location": "서구 내동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/44/3037244_image2_1.JPG"
+    },
+    {
+      "title": "대전월드컵경기장",
+      "type": "스포츠시설",
+      "location": "유성구 월드컵대로",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/01/3513201_image2_1.jpg"
+    },
+    {
+      "title": "스몹 대전",
+      "type": "레포츠",
+      "location": "유성구 도룡동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/95/3535595_image2_1.png"
+    }
+  ],
+  "food": [
+    {
+      "title": "성심당",
+      "type": "베이커리",
+      "location": "중구 은행동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/32/2938932_image2_1.bmp"
+    },
+    {
+      "title": "갑동숯불민물장어",
+      "type": "한식",
+      "location": "유성구 갑동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/72/2899372_image2_1.jpg"
+    },
+    {
+      "title": "라꼬레",
+      "type": "양식",
+      "location": "유성구 궁동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/46/2912946_image2_1.jpg"
+    },
+    {
+      "title": "그린베이커리",
+      "type": "베이커리",
+      "location": "유성구 관평동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/57/2912857_image2_1.jpg"
+    },
+    {
+      "title": "진신",
+      "type": "한식",
+      "location": "유성구 원신흥동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/32/2915632_image2_1.jpg"
+    },
+    {
+      "title": "아저씨돈까스",
+      "type": "돈까스",
+      "location": "중구 은행동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/31/4077531_image2_1.jpg"
+    },
+    {
+      "title": "정식당",
+      "type": "한식",
+      "location": "중구 대흥동",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/37/3063137_image2_1.JPG"
+    }
+  ]
+}
