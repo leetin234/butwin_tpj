@@ -48,6 +48,8 @@ ${postContext}`,
     body: JSON.stringify(payload),
   })
 
+  console.log(response)
+
   if (!response.ok) {
     const errorText = await response.text()
     throw new Error(`OpenAI API 오류 (${response.status}): ${errorText.slice(0, 180)}`)
